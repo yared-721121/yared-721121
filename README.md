@@ -67,7 +67,15 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight)
+<div align="center">
+
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaya1200&theme=tokyonight" />
+
+</div>
 
 
 
