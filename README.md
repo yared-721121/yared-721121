@@ -67,6 +67,14 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yaya1200&theme=tokyonight)
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaya1200&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaya1200&layout=compact&theme=radical)
+
+## 🏆 GitHub Score
+![Score](https://img.shields.io/badge/GitHub%20Score-A-brightgreen?style=for-the-badge)
 
 
 
