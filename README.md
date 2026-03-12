@@ -7,12 +7,10 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 </div>
 
----
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yared%20Gebre-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yared-gebre-201595246)
 
----
 
 ### 💻 Tech Stack  
 
@@ -56,7 +54,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
----
 
 <div align="center">
 
@@ -78,8 +75,6 @@ I’m constantly learning, experimenting, and building creative solutions to rea
 
 
 </div>
-
----
 
 <div align="center">
 
